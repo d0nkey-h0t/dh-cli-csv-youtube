@@ -1,0 +1,9 @@
+[project]
+name = "youtube_reports"
+version = "0.1.0"
+description = "CLI utility that reads YouTube video metrics"
+requires-python = ">=3.11"
+dependencies = [
+    "pytest>=9.0.3",
+    "tabulate>=0.10.0",
+]
